@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fall Detector Contact Selector</string>
+    <string name="action_settings">Settings</string>
+    <string name="preference_file_key">de.dfki.falldetector.CONTACTS</string>
+    <string name="contacts_key">contacts</string>
+    <string name="sms_message">Fall Detected\n This is an automated message\nCall this number to try and confirm the situation.\n</string>
+</resources>

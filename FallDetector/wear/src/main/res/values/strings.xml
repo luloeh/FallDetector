@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FallDetector</string>
+    <string name="fall_detected">FALL DETECTED</string>
+    <string name="long_press_intro">touch and hold to cancel</string>
+</resources>
